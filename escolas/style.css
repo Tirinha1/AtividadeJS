@@ -1,0 +1,5 @@
+tr:hover {background-color: coral;}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
